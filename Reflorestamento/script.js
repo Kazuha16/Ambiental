@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Você possui conhecimento sobre o conceito de reflorestamento?",
         alternativas: [
             {
-                texto: "Sim, tenho uma ideia geral."
+                texto: "Sim, tenho uma ideia geral.",
                 afirmacao: "Muito bem! Isso quer dizer que você terá mais facilidade na compreensão desse tema nas próximas questões."
             },
             {
-                texto: "Não, desconheço esse termo."
+                texto: "Não, desconheço esse termo.",
                 afirmacao: "Não se preocupe, vamos lhe dar uma breve explicação! O reflorestamento consiste na regeneração natural ou intencional de florestas e matas que foram esgotadas anteriormente."
             }
         ]
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Você contribui ou já pensou em contribuir no reflorestamento? Por que?",
         alternativas: [
             {
-                texto: "Sim, contribuo ou penso em contribuir para desempenhar um papel importante no combate ao efeito estufa."
+                texto: "Sim, contribuo ou penso em contribuir para desempenhar um papel importante no combate ao efeito estufa.",
                 afirmacao: "Continue assim! Você se preocupa com o amanhã e deseja que as gerações do futuro tenham uma boa vivência."
             },
             {
-                texto: "Não, não contribuo ou nunca pensei em contribuir, pois não vejo importância na prática ou acho perca de tempo."
-                afirmacao: "Que pena! Mas você sabia que o reflorestamento é muito importante? Além de repor a vegetação, ele auxilia na conservação da biodiversidade e ameniza a poluição do ar! O que acha de plantar pelo menos uma mudinha?."
+                texto: "Não, não contribuo ou nunca pensei em contribuir, pois não vejo importância na prática ou acho perca de tempo.",
+                afirmacao: "Que pena! Mas você sabia que o reflorestamento é muito importante? Além de repor a vegetação, ele auxilia na conservação da biodiversidade e ameniza a poluição do ar! O que acha de plantar pelo menos uma mudinha?"
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Como você acha que deve ser feito o reflorestamneto?", 
         alternativas: [
             {
-                texto: "Através do plantio de mudas em uma área devastada."
+                texto: "Através do plantio de mudas em uma área devastada.",
                 afirmacao: "Esta técnica possui alta eficácia e maiores chances de resultar em sucesso, além de haver uma janela de tempo mais curta para a formação das primeiras matas."
             },
             {
-                texto: "Por meio da inserção de espécies vegetais específicas que podem tornar o ambiente favorável para outras espécies ocuparem."
-                afirmacao: "Também é uma ótima opção, visto que há relação tanto com as próprias plantas quanto os animais que dissipam suas sementes pela área ao redor!."
+                texto: "Por meio da inserção de espécies vegetais específicas que podem tornar o ambiente favorável para outras espécies ocuparem.",
+                afirmacao: "Também é uma ótima opção, visto que há relação tanto com as próprias plantas quanto os animais que dissipam suas sementes pela área ao redor!"
             }
         ]
     },
